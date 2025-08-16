@@ -62,3 +62,5 @@ TgCrypto
 pyrogram==1.0.1
 psycopg2
 telepot==12.0
+ntplib
+
